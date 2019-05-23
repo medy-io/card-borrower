@@ -1,0 +1,307 @@
+[{
+        "id": 1,
+        "title": "Die Hard",
+        "genre": [
+            "Christmas Movie"
+        ],
+        "price": 10,
+        "length": 132,
+        "rating": "R",
+        "cast": [
+            "Bruce Willis",
+            "Bonnie Bedelia",
+            "Alan Rickman"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "North by Northwest",
+        "genre": [
+            "Drama",
+            "Mystery"
+        ],
+        "price": 5,
+        "length": 132,
+        "rating": "NA",
+        "cast": [
+            "Cary Grant",
+            "James Mason"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "The Fifth Element",
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Pan's Labyrinth",
+        "genre": [
+            "Mystery",
+            "Horror"
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 5,
+        "title": "The Room",
+        "genre": [
+            "Bad Movies"
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Jurassic Park",
+        "genre": [
+            "Horror",
+            "Suspense"
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 7,
+        "title": "The Sixth Sense",
+        "genre": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 8,
+        "title": "The Rear Window",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 9,
+        "title": "12 Angry Men",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Ben-Hur",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Forbidden Planet",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 12,
+        "title": "The Untouchables",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 13,
+        "title": "The Goonies",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Ghostbusters",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Jaws",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Alien",
+        "genre": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Apocalypse Now",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Blade Runner",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 19,
+        "title": "You've Got Mail",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Groundhog Day",
+        "genre": [
+            ""
+        ],
+        "price": 0,
+        "length": 0,
+        "rating": "NA",
+        "cast": [
+            "",
+            "",
+            ""
+        ]
+    }
+
+]
